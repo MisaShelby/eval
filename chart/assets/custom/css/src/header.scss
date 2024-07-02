@@ -1,0 +1,10 @@
+@import './partials/_color';
+
+#header{
+    background-color: $header-background;
+
+    header{
+        display: flex;
+        justify-content: center;
+    }
+}

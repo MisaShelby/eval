@@ -1,0 +1,34 @@
+.action-title {
+  color: #4e4ede;
+}
+
+a.active {
+  color: orange;
+}
+
+.content-background {
+  background-color: #fffdfd;
+  border: none;
+  outline: none;
+}
+
+.stick-header {
+  position: sticky;
+  top: 0;
+}
+
+.top-sticked {
+  position: sticky;
+  top: 12%;
+}
+
+.black-alpha-border {
+  border: 1px solid rgba(0, 0, 0, 0.045);
+}
+
+.right-border {
+  border-right: 1px solid rgba(0, 0, 0, 0.216);
+}
+
+
+/*# sourceMappingURL=style.css.map */
